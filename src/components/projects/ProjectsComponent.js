@@ -1,80 +1,31 @@
-import React from 'react';
-import './ProjectsComponent.css';
+import React from "react";
+import "./ProjectsComponent.css";
 const ProjectsComponent = () => {
   return (
-    <div className='projects-wrapper'>
-      <div className='container'>
+    <div className="projects-wrapper">
+      <div className="container">
         <h1>Projects Details</h1>
-        <div className='project-inner'>
-          <div className='pro'>
-            <h3>Project 1</h3>
+        <div className="project-inner">
+          <div className="pro">
+            <h3>Blog Website</h3>
             <p>
-              <i>August, 2017 - December, 2019</i>
+              <i>August, 2022 - October, 2022</i>
             </p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Eligendi, inventore, laborum doloremque ducimus quasi quidem
-              ullam, dolorum quia quam adipisci aut vitae?
-            </p>
-            <button>Read More</button>
-          </div>
-          <div className='pro'>
-            <h3>Project 2</h3>
-            <p>
-              <i>August, 2017 - December, 2019</i>
-            </p>
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Eligendi, inventore, laborum doloremque ducimus quasi quidem
-              ullam, dolorum quia quam adipisci aut vitae?
+              MERN Stack (MongoDB, Express, React, Node) <br />
+              • User can Add delete and update their posts <br />
+              • Every User have their on profile Where user can Update their
+              profile also. <br />• Every user can see own & other users posts
             </p>
             <button>Read More</button>
-          </div>
-          <div className='pro'>
-            <h3>Project 3</h3>
+          </div>{" "}
+          <div className="pro">
+            <h3>Food Website</h3>
             <p>
-              <i>August, 2017 - December, 2019</i>
+              <i>October, 2021 - December, 2021</i>
             </p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Eligendi, inventore, laborum doloremque ducimus quasi quidem
-              ullam, dolorum quia quam adipisci aut vitae?
-            </p>
-            <button>Read More</button>
-          </div>
-          <div className='pro'>
-            <h3>Project 4</h3>
-            <p>
-              <i>August, 2017 - December, 2019</i>
-            </p>
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Eligendi, inventore, laborum doloremque ducimus quasi quidem
-              ullam, dolorum quia quam adipisci aut vitae?
-            </p>
-            <button>Read More</button>
-          </div>
-          <div className='pro'>
-            <h3>Project 5</h3>
-            <p>
-              <i>August, 2017 - December, 2019</i>
-            </p>
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Eligendi, inventore, laborum doloremque ducimus quasi quidem
-              ullam, dolorum quia quam adipisci aut vitae?
-            </p>
-            <button>Read More</button>
-          </div>
-          <div className='pro'>
-            <h3>Project 6</h3>
-            <p>
-              <i>August, 2017 - December, 2019</i>
-            </p>
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Eligendi, inventore, laborum doloremque ducimus quasi quidem
-              ullam, dolorum quia quam adipisci aut vitae?
+              html css <br />• Simple food Website
             </p>
             <button>Read More</button>
           </div>
